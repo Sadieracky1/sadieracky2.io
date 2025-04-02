@@ -6,6 +6,9 @@ Projects
 
 1. Midterm Project: [Chicago Graffiti Simulator]
 This is a graffiti text based adventure game made with C#. It is full of suspense and intrigue. 
+It's a single player game with multiple settings and different objectives. 
+Your goal is to not get caught doing graffiti and collect trophies along the way. 
+![Adventure Game Screenshot](graffss.png) 
 
 
 ## Contact
